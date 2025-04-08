@@ -1,6 +1,8 @@
 # ReproInventory
 A repo for developing the ReproNim inventory of training resources.
 
+See a collated overview of all training resoucres [here](table.md)
+
 # Background
 **ReproNim** has developed a lot of [training resources](https://www.repronim.org/teach.html). 
 The **[INCF-ReproNim Fellows](https://www.repronim.org/fellowship.html)** have developed a lot of [training resources](https://www.repronim.org/fellows-resources) including a [Training Tool-kit](https://drive.google.com/drive/u/0/folders/1_qLgvQAI_71768_45gMBb7n4DpsY7Wil).
