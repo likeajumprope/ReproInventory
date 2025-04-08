@@ -1,7 +1,9 @@
 # ReproInventory
 A repo for developing the ReproNim inventory of training resources.
 
-See a collated overview of all training resoucres [here](table.md)
+See a collated overview of all training resoucres [here](table.md).
+
+An alterative would be [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSWI7KLG_j9GjDkwQhnZNKMNNZmoKfURbMTWbLdjANqKGizBfH6V_uvW2vfHK2l0ejOXxqxEKLOszEw/pubhtml)
 
 # Background
 **ReproNim** has developed a lot of [training resources](https://www.repronim.org/teach.html). 
