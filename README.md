@@ -1,7 +1,7 @@
 # ReproInventory
 A repo for developing the ReproNim inventory of training resources.
 
-# Access the ReproInevtroy
+# Access the ReproInventory
 1. See a collated overview of all training resoucres [here](table.md). This overview was crated from writing the google sheet table to markdown using a short python scipt.
 
 2. An alterative would be [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSWI7KLG_j9GjDkwQhnZNKMNNZmoKfURbMTWbLdjANqKGizBfH6V_uvW2vfHK2l0ejOXxqxEKLOszEw/pubhtml). This overview was created by exporting the google sheets table to html.
