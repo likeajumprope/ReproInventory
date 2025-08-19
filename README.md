@@ -2,19 +2,19 @@
 A repo for developing the ReproNim inventory of training resources.
 
 # Access the ReproInventory
-1. See a collated overview of all training resoucres [here](table.md). This overview was crated from writing the google sheet table to markdown using a short python scipt.
+1. See a collated overview of all training resources [here](table.md). This overview was created from writing the Google Sheet table to markdown using a short Python scipt.
 
-2. An alterative would be [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSWI7KLG_j9GjDkwQhnZNKMNNZmoKfURbMTWbLdjANqKGizBfH6V_uvW2vfHK2l0ejOXxqxEKLOszEw/pubhtml). This overview was created by exporting the google sheets table to html.
+2. An alternative would be [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSWI7KLG_j9GjDkwQhnZNKMNNZmoKfURbMTWbLdjANqKGizBfH6V_uvW2vfHK2l0ejOXxqxEKLOszEw/pubhtml). This overview was created by exporting the Google Sheets table to HTML.
 
 # Background
 **ReproNim** has developed a lot of [training resources](https://www.repronim.org/teach.html). 
 The **[INCF-ReproNim Fellows](https://www.repronim.org/fellowship.html)** have developed a lot of [training resources](https://www.repronim.org/fellows-resources) including a [Training Tool-kit](https://drive.google.com/drive/u/0/folders/1_qLgvQAI_71768_45gMBb7n4DpsY7Wil).
-The community (neuroimaging and beyond) have developed a lot of training resources. When a user is faced with the 
+The community (neuroimaging and beyond) has developed a lot of training resources. When a user is faced with the 
 desire to 'teach' a topic, how do they navigate all this content to find (or adapt, as needed) the right resources 
 to start from?
 
 We seek to create a ***ReproNim Inventory of Training Resources*** to help find what's out there so that users can more efficiently 
-identify, reuse and adapt existing resources instead of always starting from scratch.
+Identify, reuse, and adapt existing resources instead of always starting from scratch.
 
 ## Similar Inventories Efforts
 We know of a number of existing resources that have attempted to do parts of this. These include (but are not limited to):
@@ -25,11 +25,11 @@ We know of a number of existing resources that have attempted to do parts of thi
 * [INCF Training Space](https://training.incf.org/)
 * [Neuroimaging Carpentry](https://conp-pcno-training.github.io/neuroimaging-carpentry/)
   * [Software Carpentry](https://www.software-carpentry.org/)
-* And many more! (add your faviorites here!)
+* And many more! (Add your favorites here!)
 
 
 ## Other specific Resources we should make sure are included
-Want other specific resources included, add them here (or file an issue)
+Want other specific resources included? Add them here (or file an issue)
 
 # What do we need to do?
 * Review ***existing*** inventories
