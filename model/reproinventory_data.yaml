@@ -1623,3 +1623,13 @@
   - instructor
   imaging_modality:
   - Behavioral
+- id: 63
+  course_name: test course
+  platform:
+  - Docker
+  instruction_medium:
+  - slides
+  delivery:
+  - Discussion needed
+  imaging_modality:
+  - Structural
